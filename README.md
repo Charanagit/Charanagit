@@ -62,26 +62,29 @@ charana = {
 </div>
 
 ---
-
-### contribution snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Charanagit/Charanagit/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Charanagit/Charanagit/output/github-snake.svg" />
-  <img alt="snake" src="https://raw.githubusercontent.com/Charanagit/Charanagit/output/github-snake.svg" />
-</picture>
-
 ---
 
-### trophies
+### 📡 NETWORK EXPLOITS & HARDWARE TROPHIES
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Charanagit&theme=matrix&no-frame=true&margin-w=4&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Charanagit&theme=matrix&no-frame=true&margin-w=4&row=1" alt="Root Trophies" />
 </div>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charanagit&theme=github-dark-green&area=true&hide_border=true&bg_color=0a0e0a&color=00ff88" width="100%" alt="Infiltration Activity Over Time" />
+</p>
+
 ---
 
+### 🚨 TERMINAL MONITOR
+
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Charanagit&color=00ff88&style=flat-square&label=UNAUTHORIZED+ACCESS+ATTEMPTS" alt="Intrusion Logs" />
+</div>
+
+<br />
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=100&section=footer&fontColor=0a0e0a)
   <img src="https://komarev.com/ghpvc/?username=Charanagit&color=00ff88&style=flat-square&label=PROFILE+VIEWS" />
 </div>
 
