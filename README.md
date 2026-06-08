@@ -1,86 +1,42 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=58A6FF&center=true&width=700&lines=Hello+World!+I'm+Charana+%F0%9F%91%8B;Python+Developer+%7C+Security+Researcher;Backend+Engineer+%7C+Sri+Lanka+%F0%9F%87%B1%F0%9F%87%B0" alt="typing svg" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Charanagit&label=Profile+Views&color=0e75b6&style=flat" />
-  <a href="https://github.com/Charanagit?tab=followers">
-    <img src="https://img.shields.io/github/followers/Charanagit?label=Followers&style=social" />
-  </a>
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=200&section=header&text=CHARANA&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=python%20dev%20%7C%20security%20researcher%20%7C%20backend%20engineer&descAlignY=60&descAlign=50)
 
----
+</div>
 
-## about me
-
-```python
-charana = {
-    "location":   "Colombo, Sri Lanka",
-    "role":       "Python Developer & Security Researcher",
-    "working_on": "Time Capsule 2.0 — microservices architecture",
-    "learning":   ["Kubernetes", "Cloud DevOps"],
-    "interests":  ["Ethical Hacking", "Computer Vision", "Backend Dev"],
-    "tools":      "Kali | Nmap | Metasploit | Wireshark | Sherlock",
-}
+```bash
+root@github:~$ whoami
+> charana — python developer & ethical hacker — colombo, sri lanka
+> currently: time-capsule-2.0 (microservices) + face-recognition-attendance
+> learning:  kubernetes, cloud devops, advanced penetration testing
 ```
 
 ---
 
-## languages
+## languages & tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=openjdk&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-f29111?style=for-the-badge&logo=databricks&logoColor=white)
-![PL/SQL](https://img.shields.io/badge/PL%2FSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-## backend & databases
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-## devops & cloud
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-
-## security toolkit
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-e34234?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
-![Sherlock](https://img.shields.io/badge/Sherlock-6e40c9?style=for-the-badge&logo=github&logoColor=white)
-
-## os & platforms
-
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-![CentOS](https://img.shields.io/badge/CentOS-932279?style=for-the-badge&logo=centos&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+```
+Languages     Python · Java · PHP · C · SQL · PL/SQL
+Backend       Flask · REST APIs · MongoDB · MySQL · PostgreSQL
+DevOps        GitHub Actions · Kubernetes · Docker · OpenCV
+Security      Kali Linux · Metasploit · Wireshark · Nmap · Sherlock
+OS            Windows Server · CentOS · Linux
+```
 
 ---
 
-## github stats
+## stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Charanagit&show_icons=true&theme=github_dark&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charanagit&layout=compact&theme=github_dark&hide_border=true" height="160" />
-</p>
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Charanagit&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff88&icon_color=00cc66&text_color=c8ffd4" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Charanagit&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0e0a&title_color=00ff88&text_color=c8ffd4" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Charanagit&theme=github-dark-blue&hide_border=true" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Charanagit&theme=chartreuse-dark&hide_border=true&background=0a0e0a&ring=00ff88&fire=00cc66&currStreakLabel=00ff88" />
+</div>
 
-## trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Charanagit&theme=darkhub&no-frame=true&margin-w=4&row=1" />
-</p>
+---
 
 ## contribution snake
 
@@ -92,6 +48,16 @@ charana = {
 
 ---
 
-<p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
-</p>
+## trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Charanagit&theme=matrix&no-frame=true&margin-w=4&row=1" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Charanagit&color=00ff88&style=flat-square&label=PROFILE+VIEWS" />
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=100&section=footer&fontColor=000000)
