@@ -74,9 +74,7 @@ charana = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Charanagit&theme=github-dark-green&area=true&hide_border=true&bg_color=0a0e0a&color=00ff88" width="100%" alt="Infiltration Activity Over Time" />
 </p>
 
----
-
-### 🚨 TERMINAL MONITOR
+--### 🚨 TERMINAL MONITOR
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Charanagit&color=00ff88&style=flat-square&label=UNAUTHORIZED+ACCESS+ATTEMPTS" alt="Intrusion Logs" />
@@ -84,8 +82,52 @@ charana = {
 
 <br />
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=100&section=footer&fontColor=0a0e0a)
-  <img src="https://komarev.com/ghpvc/?username=Charanagit&color=00ff88&style=flat-square&label=PROFILE+VIEWS" />
+---
+
+### 👤 BIOMETRIC PATTERN RECONSTRUCTION
+> **[SYSTEM MSG]**: User profile signature corrupted. Re-assemble biometric framework data blocks to restore user face file.
+
+<div align="center">
+
+```🔍 [SYS_ENG] - SCANNING FACE_RECOGNITION_ATTENDANCE DATA SHARDS...```
+
+⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+⬛⬛⬛⬛⬛⬛⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛
+⬛⬛⬛⬛⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛⬛
+⬛⬛⬛⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛
+⬛⬛⬛🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟩🟩🟩🟩🟩⬛⬛⬛
+⬛⬛🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟩🟩🟩🟩🟩⬛⬛
+⬛⬛🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟩🟩🟩🟩⬛⬛
+⬛⬛🟩🟩⬛⬛🟩🟩🟩🟩⬛⬛🟩🟩🟩🟩⬛⬛🟩🟩🟩🟩⬛⬛
+⬛🟩🟩🟩⬛⬛🟩🔲🔲🟩⬛⬛🟩🔲🔲🟩⬛⬛🟩🟩🟩🟩🟩⬛
+⬛🟩🟩🟩⬛⬛🟩🟩🟩🟩⬛⬛🟩🟩🟩🟩⬛⬛🟩🟩🟩🟩🟩⬛
+⬛🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟩🟩🟩🟩🟩⬛
+⬛🟩🟩🟩⬛⬛⬛⬛⬛⬛🟩🟩⬛⬛⬛⬛⬛⬛🟩🟩🟩🟩🟩⬛
+⬛⬛🟩🟩⬛⬛⬛⬛🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛🟩🟩🟩🟩⬛⬛
+⬛⬛🟩🟩⬛⬛⬛⬛⬛🟩🟩🟩🟩⬛⬛⬛⬛⬛🟩🟩🟩🟩⬛⬛
+⬛⬛🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛🟩🟩🟩🟩🟩⬛⬛
+⬛⬛⬛🟩🟩🟩🟩⬛⬛🟩🟩🟩🟩⬛⬛🟩🟩🟩🟩🟩🟩⬛⬛⬛
+⬛⬛⬛⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛
+⬛⬛⬛⬛⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛
+⬛⬛⬛⬛⬛⬛⬛🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛
+⬛⬛⬛⬛⬛⬛⬛⬛⬛🟩🟩🟩🟩🟩⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛
+
+</div>
+
+<details>
+<summary>⚡ <b>[CLICK TO RUN] puzzle_engine --assemble --target "face_component_1"</b></summary>
+<br />
+
+#### 🛠️ INTERACTIVE OVERRIDE TERMINAL
+Select an operational component payload below to clear encryption locks and align the missing reticle:
+
+- [ ] `[ ]` **Face Component Delta [1]** — `0x7F` [Inject Payload]
+- [ ] `[ ]` **Face Component Delta [2]** — `0xA3` [Inject Payload]
+- [ ] `[ ]` **Face Component Delta [3]** — `0xBC` [Inject Payload]
+- [ ] `[ ]` **Face Component Delta [4]** — `0xF1` [Inject Payload]
+
+```bash
+root@charana:~# status: awaiting pattern selection...
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=100&section=footer&fontColor=0a0e0a)
